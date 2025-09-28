@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\survivalgame\\survivalgame\\survivalgame\\source\\survivalgame\\variant_shooter\\weapons\\shooterweapon.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\survivalgame\\survivalgame\\survivalgame\\intermediate\\build\\win64\\x64\\survivalgameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\survivalgame\\survivalgame\\survivalgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\survivalgame\\definitions.survivalgame.h",
+            "d:\\survivalgame\\survivalgame\\survivalgame\\source\\survivalgame\\variant_shooter\\weapons\\shooterweapon.h",
+            "d:\\survivalgame\\survivalgame\\survivalgame\\source\\survivalgame\\variant_shooter\\weapons\\shooterweaponholder.h",
+            "d:\\survivalgame\\survivalgame\\survivalgame\\intermediate\\build\\win64\\unrealeditor\\inc\\survivalgame\\uht\\shooterweaponholder.generated.h",
+            "d:\\survivalgame\\survivalgame\\survivalgame\\intermediate\\build\\win64\\unrealeditor\\inc\\survivalgame\\uht\\shooterweapon.generated.h",
+            "c:\\unreal\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.h",
+            "c:\\unreal\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetmathlibrary.generated.h",
+            "c:\\unreal\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.inl",
+            "d:\\survivalgame\\survivalgame\\survivalgame\\source\\survivalgame\\variant_shooter\\weapons\\shooterprojectile.h",
+            "d:\\survivalgame\\survivalgame\\survivalgame\\intermediate\\build\\win64\\unrealeditor\\inc\\survivalgame\\uht\\shooterprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

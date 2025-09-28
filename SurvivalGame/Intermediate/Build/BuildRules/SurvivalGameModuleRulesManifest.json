@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\SurvivalGame\\SurvivalGame\\SurvivalGame\\Source\\SurvivalGame\\SurvivalGame.Build.cs",
+		"D:\\SurvivalGame\\SurvivalGame\\SurvivalGame\\Source\\SurvivalGame.Target.cs",
+		"D:\\SurvivalGame\\SurvivalGame\\SurvivalGame\\Source\\SurvivalGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\survivalgame\\survivalgame\\survivalgame\\intermediate\\build\\win64\\unrealeditor\\inc\\survivalgame\\uht\\survivalgamegamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\survivalgame\\survivalgame\\survivalgame\\intermediate\\build\\win64\\x64\\survivalgameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\survivalgame\\survivalgame\\survivalgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\survivalgame\\definitions.survivalgame.h",
+            "d:\\survivalgame\\survivalgame\\survivalgame\\source\\survivalgame\\survivalgamegamemode.h",
+            "c:\\unreal\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\unreal\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\unreal\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\unreal\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\survivalgame\\survivalgame\\survivalgame\\intermediate\\build\\win64\\unrealeditor\\inc\\survivalgame\\uht\\survivalgamegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\survivalgame\\survivalgame\\survivalgame\\intermediate\\build\\win64\\unrealeditor\\inc\\survivalgame\\uht\\survivalgameplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\survivalgame\\survivalgame\\survivalgame\\intermediate\\build\\win64\\x64\\survivalgameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\survivalgame\\survivalgame\\survivalgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\survivalgame\\definitions.survivalgame.h",
+            "d:\\survivalgame\\survivalgame\\survivalgame\\source\\survivalgame\\survivalgameplayercontroller.h",
+            "d:\\survivalgame\\survivalgame\\survivalgame\\intermediate\\build\\win64\\unrealeditor\\inc\\survivalgame\\uht\\survivalgameplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

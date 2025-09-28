@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\survivalgame\\survivalgame\\survivalgame\\source\\survivalgame\\survivalgame.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\survivalgame\\survivalgame\\survivalgame\\intermediate\\build\\win64\\x64\\survivalgameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\survivalgame\\survivalgame\\survivalgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\survivalgame\\definitions.survivalgame.h",
+            "d:\\survivalgame\\survivalgame\\survivalgame\\source\\survivalgame\\survivalgame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
